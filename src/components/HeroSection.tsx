@@ -21,23 +21,24 @@ const HeroSection = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
         
           {/* Left side - Photo (Wrapped correctly) */}
-          <div className="flex justify-center lg:justify-end">
-            <div className="relative">
-              {/* Image Frame */}
-              <div className="w-80 h-80 octagonal-frame bg-gradient-to-br from-space-primary to-space-secondary p-1">
-                <div className="w-full h-full octagonal-frame bg-muted flex items-center justify-center overflow-hidden">
-                  <img
-                    src={prav}
-                    alt="Kundum Pravallika"
-                    className="w-full h-full object-cover"
-                  />
-                  <div className="absolute inset-0 octagonal-frame bg-gradient-to-br from-cosmic-blue/20 to-space-primary/20"></div>
-                </div>
-              </div>
-              {/* Glow Effect */}
-              <div className="absolute -inset-4 bg-gradient-to-r from-space-primary/20 to-cosmic-blue/20 blur-xl rounded-full"></div>
-            </div>
-          </div>
+         {/* Left side - Photo (Wrapped correctly) */}
+<div className="flex justify-center lg:justify-center"> {/* Changed from lg:justify-end to lg:justify-start */}
+  <div className="relative">
+    {/* Image Frame */}
+    <div className="w-80 h-80 octagonal-frame bg-gradient-to-br from-space-primary to-space-secondary p-1">
+      <div className="w-full h-full octagonal-frame bg-muted flex items-center justify-center overflow-hidden">
+        <img
+          src={prav}
+          alt="Kundum Pravallika"
+          className="w-full h-full object-cover"
+        />
+        <div className="absolute inset-0 octagonal-frame bg-gradient-to-br from-cosmic-blue/20 to-space-primary/20"></div>
+      </div>
+    </div>
+    {/* Glow Effect */}
+    <div className="absolute -inset-4 bg-gradient-to-r from-space-primary/20 to-cosmic-blue/20 blur-xl rounded-full"></div>
+  </div>
+</div>
 
           {/* Right side - Content */}
           <div className="text-center lg:text-left space-y-6">
