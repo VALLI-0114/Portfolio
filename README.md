@@ -1,73 +1,135 @@
-# Welcome to your Lovable project
+🌌 Kundum Pravallika's Space-Themed Portfolio
 
-## Project info
+Welcome to my personal portfolio website — a space-themed interactive platform designed to showcase my skills, education, projects, internships, certifications, and achievements in a creative and professional way. ✨
 
-**URL**: https://lovable.dev/projects/d5875df5-49e1-4e67-acf4-4fcc73200388
+🎨 Design & Visual Theme
 
-## How can I edit this code?
+Dark cosmic theme with deep black–blue gradients
 
-There are several ways of editing your application.
+Animated star field with 150+ twinkling and moving stars
 
-**Use Lovable**
+Shooting stars every 8 seconds for a dynamic effect
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d5875df5-49e1-4e67-acf4-4fcc73200388) and start prompting.
+Floating particles & nebula layers for atmospheric depth
 
-Changes made via Lovable will be committed automatically to this repo.
+Fully responsive design optimized for all devices
 
-**Use your preferred IDE**
+🏠 Hero Section
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Octagonal animated photo frame
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Typing animation introducing me: "Kundum Pravallika"
 
-Follow these steps:
+Subtitle: Full Stack Developer & AI/ML Enthusiast
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Cosmic Resume button for downloads
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Social media links (GitHub, LinkedIn, Email) with hover effects
 
-# Step 3: Install the necessary dependencies.
-npm i
+🎓 Education
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+SSC: 99% – Bhashyam Talent School, Rajahmundry (2021)
 
-**Edit a file directly in GitHub**
+Intermediate: 88% – Prathiba Junior College (2021–2023)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+B.Tech: 8.0 CGPA – JNTU-GV, Vizianagaram (2023–2027)
 
-**Use GitHub Codespaces**
+🛠 Skills
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Technical Skills: HTML, CSS, JavaScript, Python, React, Power BI, AI Tools, Machine Learning, Flask, Django, Vercel
+Soft Skills: Leadership, Communication, Problem-solving
 
-## What technologies are used for this project?
+💼 Projects (10 Showcased)
 
-This project is built with:
+To-do List (HTML, CSS)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Image Slider App (HTML, CSS)
 
-## How can I deploy this project?
+Weather API Application (Python Flask)
 
-Simply open [Lovable](https://lovable.dev/projects/d5875df5-49e1-4e67-acf4-4fcc73200388) and click on Share -> Publish.
+Weather App (HTML, CSS)
 
-## Can I connect a custom domain to my Lovable project?
+Simple Banking System (Python)
 
-Yes, you can!
+Netflix Dashboard (Power BI)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+HR Analytics Dashboard
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+E-waste Classifier (AI & Database)
+
+Eatopia E-commerce (Full Stack React)
+
+K-Means Clustering (Machine Learning)
+
+🧪 Internships (4 Completed)
+
+Web Development – Youngbot Academy (Oct–Nov 2024)
+
+Python Development – Youngbot Academy (Nov–Dec 2024)
+
+Python Developer – Codec Technologies (Mar–Apr 2025)
+
+AI & Data Analytics – Edunet Foundation (Jun–Jul 2025)
+
+📜 Certifications
+
+Internships: 4 completion certificates
+Courses (6 Professional):
+
+Front End Web Developer (Infosys Springboard)
+
+AI & Neural Networks (Infosys Springboard)
+
+Cyber Crime Intervention Officer (ISAC)
+
+Data Analytics (Accenture)
+
+Modern AI (Cisco Academy)
+
+ReactJS (Simplilearn)
+
+🏆 Achievements
+
+LeetCode badges: 50 Days, 100 Days, DCC Challenges, SQL 50
+
+Power BI Co-pilot badge
+
+ACM Student Chapter Deputy Secretary recognition
+
+Professional accomplishment cards with LinkedIn verification
+
+📞 Contact
+
+Contact Form: Name, Email, Subject, Message
+
+Socials: LinkedIn, GitHub, Email, LeetCode, HackerRank, CodeChef
+
+Professional contact info included
+
+🚀 Technical Features
+
+Sticky navigation with smooth scrolling
+
+Responsive grid layouts
+
+CSS animations & transitions
+
+Accessible semantic HTML
+
+Modern React components with TypeScript
+
+Tailwind CSS with custom cosmic theme
+
+Performance-optimized animations
+
+🌟 Interactive Elements
+
+Hover animations on buttons, cards & social links
+
+Smooth scroll transitions
+
+Mobile-friendly responsive menu
+
+Cosmic hover effects throughout
+
+✨ This portfolio is more than just a website — it’s a creative journey through space, reflecting my passion for technology, full stack development, and artificial intelligence.
